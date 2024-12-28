@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😀
 
 <!--
 **alanqwl/alanqwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I'm currently studying computer engineering
+- I'm looking for software developer internship
+- How to reach me: weilunqiu771@outlook.com
+- Fun fact: love watching football games, a loyal Chelsea fan
+
