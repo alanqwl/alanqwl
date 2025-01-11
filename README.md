@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I'm currently studying computer engineering
 - I'm looking for software developer internship
 - How to reach me: weilunqiu771@outlook.com
-- Fun fact: love watching football games, a loyal Chelsea fan
+- Fun fact: love watching football games
 
